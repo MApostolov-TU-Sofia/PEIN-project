@@ -1,0 +1,10 @@
+{
+  "i_files": ["day.xls", "hour.xls"],
+  "i_sheets": ["orlov", "mladost", "drujba", "nadejda", "pavlovo", "hipodruma"],
+  "i_usecols": ["A:C", [0, 2, 3, 4, 6, 7]],
+  "test_size": 0.3,
+  "train_size": 0.7,
+  "random_state": 0,
+  "max_iter": 1000,
+  "n_jobs": -1
+}
